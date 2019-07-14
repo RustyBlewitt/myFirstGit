@@ -1,1 +1,3 @@
-console.log('I caused a merge conflict');
+const adder = (a, b) => (a + b);
+console.log('Merge resolved');
+console.log(adder(5, 10));
