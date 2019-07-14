@@ -1,3 +1,3 @@
 const adder = (a, b) => (a + b);
-console.log('hello world');
+console.log('Merge resolved');
 console.log(adder(5, 10));
